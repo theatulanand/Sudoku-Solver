@@ -85,4 +85,8 @@ button:active {
         background-color: #cecece;
         border-radius: 15px;
     }
+
+    h1{
+        font-size: 35px;
+    }
 }
